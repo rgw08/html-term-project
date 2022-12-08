@@ -5,7 +5,7 @@
   text-decoration: none;
   color: black;
 }
-.hr layout{
+.hr{
   display: none;
 }
 .logo{
@@ -120,4 +120,5 @@ table td{
   border: 1px dotted black ception;
   padding: 20px;
   text-align; center; 
+  
 }
